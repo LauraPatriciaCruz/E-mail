@@ -3,6 +3,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat ;
+    padding-top:80px;
 }
 
 
@@ -90,3 +91,11 @@ form {
       transform: scale(1.0); 
     } 
   }
+
+  footer{
+    color:#ffffff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 40px;
+}
