@@ -3,7 +3,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat ;
-    padding-top:80px;
 }
 
 
@@ -97,5 +96,5 @@ form {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding-top: 40px;
+    justify-content: center;
 }
